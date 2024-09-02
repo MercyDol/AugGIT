@@ -5,6 +5,7 @@ public class AugGit {
 		
 		System.out.println("Welcome to GIT");
 		System.out.println("Message from GITHUB");
+		System.out.println("Message from STS");
 	}
 	
 
